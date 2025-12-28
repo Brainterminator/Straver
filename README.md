@@ -6,7 +6,7 @@ Snap-Tap alternative for non-Razer Keyboards. This software prevents overlapping
 ## How to use
 
 Straver adds a small icon to your taskbar, where you can conveniently activate and deactivate the hook.
-<img src="https://lowearthorbit.de/straver/straver-guide.png" />
+<img src="https://camo.githubusercontent.com/066b136425900f9b21db7fa8de60dd217c5ff24652cc76a013a4168fa120725f/68747470733a2f2f6c6f7765617274686f726269742e64652f737472617665722f737472617665722d67756964652e706e67" />
 
 ## License
 
